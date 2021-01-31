@@ -6,17 +6,17 @@ First, we will start a conversation with [@IrisUpdateBot](https://t.me/irisupdat
 
 In order to configure subscriptions we will send Iris the command `/subscriptions`.
 <figure>
-  <img src="subscriptions/1.png" width="550" />
+  <img src="1.png" width="550" />
 </figure>
 <br>
 
 Then, we will select 'Facebook'.
 <figure>
-  <img src="subscriptions/2.png" width="550" />
+  <img src="2.png" width="550" />
 </figure>
 <br>
 
 Now, we can press 'Add user' and send out the name of the user we want to add.
 <figure>
-  <img src="subscriptions/3.png" width="550" />
+  <img src="3.png" width="550" />
 </figure>
